@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Interactions
+name: 
 
 # Short bio or description (displayed in the header)
-description: Courtney // 22 //Seattle
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://lh3.googleusercontent.com/eNAZMMsxnwylTu82aoF7VxHKdaAUAbAaCFkoSI5wnEMiDW2StvenBKFXT6RC1TVosGvn=s85
+avatar: 
 
 #
 # Flags below are optional
@@ -21,11 +21,11 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/can-cbar
+  github: 
   instagram:
-  linkedin: https://www.linkedin.com/in/courtneyneubauer
+  linkedin: 
   pinterest:
-  rss: # Blog
+  rss: # 
   twitter: https://twitter.com/Ms_courtneyanne
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://can-cbar.github.io
+url:
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
